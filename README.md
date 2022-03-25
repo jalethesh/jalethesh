@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Full%20Stack%20Smart%20Contract%20Developer;6+%2B%20years%20of%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Smart%20Contract%20Developer;6+%2B%20years%20of%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45"></a>
 </p>
 
 ### Summary
