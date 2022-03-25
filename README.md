@@ -13,7 +13,7 @@
 | [HTML/CSS](https://en.wikipedia.org/wiki/HTML5)                                                    | Senior⋆⋆         | 6+        |
 | [React](https://reactjs.org/)                                                                      | Senior⋆⋆         | 5         |
 | [Vue](https://vuejs.org/)                                                                          | Senior           | 4         |
-| [Next](https://nextjs.org/)                                                                        | Medior           | 2         |
+| [Next](https://nextjs.org/)                                                                        | Senior           | 4         |
 | [AWS](https://aws.amazon.com/)                                                                     | Medior⋆⋆         | 1         |
 | [Backend (Nodejs)](https://nodejs.org/)                                                            | Senior⋆⋆         | 4         |
 | [Backend (Laravel)](https://laravel.com/)                                                          | Medior           | 3         |
