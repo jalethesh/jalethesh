@@ -14,6 +14,7 @@
 | [React](https://reactjs.org/)                                                                      | Senior⋆⋆         | 5         |
 | [Vue](https://vuejs.org/)                                                                          | Senior           | 4         |
 | [Next](https://nextjs.org/)                                                                        | Senior           | 4         |
+| [Nuxt](https://nuxtjs.org/)                                                                        | Senior           | 4         |
 | [AWS](https://aws.amazon.com/)                                                                     | Medior⋆⋆         | 1         |
 | [Backend (Nodejs)](https://nodejs.org/)                                                            | Senior⋆⋆         | 4         |
 | [Backend (Laravel)](https://laravel.com/)                                                          | Medior           | 3         |
