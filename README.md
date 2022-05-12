@@ -1,4 +1,4 @@
-# Full Stack, Smart Contract Developer
+# Web and Mobile Application Developer
 
 
 <p align="center">
